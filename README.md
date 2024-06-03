@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ritika Thakur
+# Heyy, I'm Ritika Thakur [just call me Ritii :)]
 
 ## About Me
 🎓 B.Tech (CSAI) student at Indraprastha Institute of Information Technology, Delhi  
