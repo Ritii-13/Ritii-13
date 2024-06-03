@@ -1,5 +1,5 @@
 # Heyy, I'm Ritika Thakur
-and here's a little of what you might be looking forward to. Also, for convinience purposes, just call me Ritii :)
+and here's a little of what you might be looking forward to. Also, for convenience purposes, just call me Ritii :)
 
 ## About Me
 🎓 B.Tech (CSAI) student at Indraprastha Institute of Information Technology, Delhi  
