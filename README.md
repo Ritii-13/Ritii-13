@@ -11,18 +11,6 @@ and here's a little of what you might be looking forward to. Also, for convenien
   - Indraprastha Institute of Information Technology, Delhi
   - CGPA: 8.1 (Till 4th semester)
 
-- **Standard 12**
-  - White Leaf Public School, Delhi
-  - CBSE
-  - Year: 2020-2022
-  - Percentage: 93.4%
-
-- **Standard 10**
-  - St. Francis School, Ghaziabad
-  - CBSE
-  - Year: 2019-2020
-  - Percentage: 95.6%
-
 ## Skills
 ### Expertise Area
 - Data Structures and Algorithms
@@ -34,18 +22,6 @@ and here's a little of what you might be looking forward to. Also, for convenien
 
 ### Tools and Technologies
 - Git, GitHub, Github Actions, IntelliJ IDEA, PyCharm, PyTorch, VSCode, Overleaf, JavaFX, libGDX, Google Collab, OpenCV, MySQL, MongoDB, TensorFlow, Scene Builder, Maven, Shells(Bash)
-
-## Technical Electives
-- Data Structures and Algorithms
-- Advanced Programming
-- Algorithm Design and Analysis
-- Computer Organization
-- Operating Systems
-- Database Management Systems
-- Introduction to Intelligent Systems
-- Introduction to Programming
-- Statistical Machine Learning
-- Convex Optimization
 
 ## Projects
 1. **SignXpert**
@@ -77,13 +53,6 @@ and here's a little of what you might be looking forward to. Also, for convenien
    - Designed and Implemented an assembler and simulator using Python.
    - Team Size: 4
    - Duration: May, 23
-
-## Experiences
-- Mentor for Teach Like a Friend Initiative (Aug,23 – Dec,23)
-- Member of the Placement Cell of IIITD (Present)
-- Part of the Organizing Team of ESYA (Tech Fest) (Sep,23)
-- Member of Meraki (Art Club of IIITD) (Present)
-- Member of Women In Tech (WIT) (Present)
 
 ## Awards and Achievements
 - Selected as a WE Scholar’23, Women Engineers Program by TalentSprint, supported by Google.
