@@ -9,7 +9,6 @@ and here's a little of what you might be looking forward to. Also, for convenien
 ## Education
 - **B.Tech (Computer Science and Artificial Intelligence)**
   - Indraprastha Institute of Information Technology, Delhi
-  - CGPA: 8.1 (Till 4th semester)
 
 ## Skills
 ### Expertise Area
@@ -22,37 +21,6 @@ and here's a little of what you might be looking forward to. Also, for convenien
 
 ### Tools and Technologies
 - Git, GitHub, Github Actions, IntelliJ IDEA, PyCharm, PyTorch, VSCode, Overleaf, JavaFX, libGDX, Google Collab, OpenCV, MySQL, MongoDB, TensorFlow, Scene Builder, Maven, Shells(Bash)
-
-## Projects
-1. **SignXpert**
-   - [Project Link](https://github.com/Ritii-13/SignXpert)
-   - Developed an American Sign Language Translator using OpenCV and TensorFlow.
-   - Team Size: 3
-   - Duration: Dec, 23
-
-2. **BookHaven**
-   - [Project Link](https://github.com/Ritii-13/BookHaven)
-   - Built a full-stack bookstore with MySQL for database management.
-   - Team Size: 3
-   - Duration: Mar, 24 - Apr, 24
-
-3. **Stock Predictor and Sentiment Analysis on r/WallStreetBets**
-   - [Project Link](https://github.com/Ritii-13/Stock-Predictor-and-Sentiment-Analysis-on-WallStreetBets)
-   - Created a stock market predictor using LSTM and performed sentiment analysis on Reddit r/WallStreetBets using VADER.
-   - Team Size: 2
-   - Duration: Mar, 24 - Apr, 23
-
-4. **Stick Hero Game**
-   - [Project Link](https://github.com/Ritii-13/Stick-Hero-Game)
-   - Implemented the game 'Stick Hero' using JavaFX and LibGDX.
-   - Individual Project
-   - Duration: Nov, 23 - Dec, 23
-
-5. **Assembler-Simulator**
-   - [Project Link](https://github.com/Ritii-13/Assembler-Simulator-2)
-   - Designed and Implemented an assembler and simulator using Python.
-   - Team Size: 4
-   - Duration: May, 23
 
 ## Awards and Achievements
 - Selected as a WE Scholar’23, Women Engineers Program by TalentSprint, supported by Google.
